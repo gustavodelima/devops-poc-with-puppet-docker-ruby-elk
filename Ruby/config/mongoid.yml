@@ -1,0 +1,7 @@
+development:
+  clients:
+    default:
+      database: logicus
+      hosts:
+        - localhost:27017
+      options:
